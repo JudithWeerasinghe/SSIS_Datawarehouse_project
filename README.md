@@ -5,11 +5,11 @@ Overview
 Designed and implemented a complete Business Intelligence solution using Microsoft SQL Server technologies including SSIS, SSAS, SQL Server, and dimensional modeling techniques.
 
 Features
-ETL pipeline development using SSIS
-Star schema dimensional modeling
+****ETL pipeline development using SSIS**
+Star schema dimensional modeling**
 Fact and dimension table implementation
-OLAP cube creation and deployment
-Business intelligence reporting and analysis
+**OLAP cube creation and deployment
+Business intelligence reporting and analysis**
 Data cleansing and transformation
 Technologies Used
 SQL Server
